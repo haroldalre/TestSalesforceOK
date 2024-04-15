@@ -1,9 +1,14 @@
 Salesforce Automation Script
+
 This Java program is designed to automate certain tasks in Salesforce using the Selenium WebDriver library. The primary purpose of this script is to log into a Salesforce account, create a new account, and modify its details.
+
 Prerequisites
+
 Install the ChromeDriver executable and set the webdriver.chrome.driver system property accordingly.
 Replace the username and password in the script with your actual Salesforce credentials.
+
 Code Overview
+
 Import necessary libraries: The program imports the required libraries for Selenium WebDriver and the ChromeDriver.
 Initialize the ChromeDriver: The ChromeDriver is initialized to interact with the Chrome browser.
 Navigate to Salesforce: The program navigates to the Salesforce login page using the driver.get() method.
