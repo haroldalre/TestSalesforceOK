@@ -1,6 +1,6 @@
-Salesforce Automation Script
+Salesforce Automation Script 
 
-This Java program is designed to automate certain tasks in Salesforce using the Selenium WebDriver library. The primary purpose of this script is to log into a Salesforce account, create a new account, and modify its details.
+This Java program is designed to automate certain tasks in Salesforce using the Selenium WebDriver library. The primary purpose of this script (src/main/java/com/gapplabs/App.java) is to log into a Salesforce account, create a new account, and modify its details.
 
 Prerequisites
 
